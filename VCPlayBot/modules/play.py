@@ -1104,7 +1104,7 @@ async def lol_cb(b, cb):
                 InlineKeyboardButton(text="🎬 YouTube", url=f"{url}"),
                 InlineKeyboardButton(text="Download 📥", url=f"{dlurl}"),
             ],
-            [InlineKeyboardButton(text="❌ Close", callback_data="cls")],
+            [InlineKeyboardButton(text="🤖ᗰᗩKᗴ ᑌᖇ Oᗯᑎ🤖", url=f"https://github.com/S780821/XMARTY_MUSIC_2")],
         ]
     )
     requested_by = useer_name
